@@ -1,0 +1,6 @@
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fc_0vkrskg00ns7tov68cabn7m28g%2540group.calendar.google.com%2Fprivate-319f9a02b139246cc0e672d6fcb9c627%2Fbasic.ics&amp;title=Trusted%20Auto%20Service%20Appointments&amp;tab=day"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%"></iframe>
